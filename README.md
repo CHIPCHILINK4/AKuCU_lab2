@@ -17,22 +17,22 @@
 
 ------------------------------------КАК С НЕЙ РАБОТАТЬ------------------------------------------
 
-названия конечно же свои можно использовать для примера в исходнике лежит фаил +- на 700 КВ
+названия конечно же свои можно использовать для примера в исходнике лежит фаил +- на 700 КВ<br />
 
 Есть 2 варианта работы: 
-1. передавать аргументы при вызове
+1. передавать аргументы при вызове<br />
 пример:\n
-Encode: AKuCU_lab2.exe 1 input.txt output.bin \n
-Decode: AKuCU_lab2.exe 2 input.bin output.txt\n
-Compare: AKuCU_lab2.exe 3 file1.txt file2.txt\n
+Encode: AKuCU_lab2.exe 1 input.txt output.bin <br />
+Decode: AKuCU_lab2.exe 2 input.bin output.txt<br />
+Compare: AKuCU_lab2.exe 3 file1.txt file2.txt<br />
 
 
 2. Запустить .exe и там есть инструкции для работы:
 
-Arithmetic compression
-==================
-1 - Encode file
-2 - Decode file
-3 - Compare files
-0 - Exit
+Arithmetic compression<br />
+==================<br />
+1 - Encode file<br />
+2 - Decode file<br />
+3 - Compare files<br />
+0 - Exit<br />
 Select option: ...
