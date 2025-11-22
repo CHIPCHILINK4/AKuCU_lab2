@@ -21,10 +21,10 @@
 
 Есть 2 варианта работы: 
 1. передавать аргументы при вызове
-пример:
-Encode: AKuCU_lab2.exe 1 input.txt output.bin 
-Decode: AKuCU_lab2.exe 2 input.bin output.txt
-Compare: AKuCU_lab2.exe 3 file1.txt file2.txt
+пример:\n
+Encode: AKuCU_lab2.exe 1 input.txt output.bin \n
+Decode: AKuCU_lab2.exe 2 input.bin output.txt\n
+Compare: AKuCU_lab2.exe 3 file1.txt file2.txt\n
 
 
 2. Запустить .exe и там есть инструкции для работы:
